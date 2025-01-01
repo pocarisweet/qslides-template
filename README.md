@@ -1,2 +1,1 @@
-# qslides
-qslides
+# quarto-presentation
