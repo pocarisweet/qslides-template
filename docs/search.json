@@ -18,7 +18,7 @@
     "href": "qslides.html#equations-2",
     "title": "Qslides",
     "section": "Equations (2)",
-    "text": "Equations (2)\n\n\\({\\boldsymbol a}, {\\bf a}, {\\boldsymbol B}, {\\bf B}, {\\boldsymbol \\alpha}, {\\boldsymbol \\Omega}, \\dots\\)\n\\({\\cal A}, {\\cal B}, {\\cal C}, \\dots\\)\n\\(\\mathbb{R}, \\mathbb{Z}, \\mathbb{R}^2, \\dots\\)\n\\({\\bf A}^{-1}, {\\bf A}^{\\top}, {\\bf A}^t, \\dots\\)\n\\({\\boldsymbol y} = {\\bf X}{\\boldsymbol \\beta} + {\\boldsymbol \\epsilon}, \\quad {\\boldsymbol \\epsilon} \\sim N({\\bf 0}, {\\bf I})\\)\n\\(\\underset{x}{\\operatorname{min}}f(x)\\), \\(\\underset{x}{\\operatorname{argmin}}f(x)\\)\n\\(\\begin{cases} x+y = 1 \\\\ x-y = 1\\end{cases}\\)"
+    "text": "Equations (2)\n\n\\({\\boldsymbol a}, {\\bf a}, {\\boldsymbol B}, {\\bf B}, {\\boldsymbol \\alpha}, {\\boldsymbol \\Omega}, \\dots\\)\n\\(\\mathbb{R}, \\mathbb{Z}, \\mathbb{R}^2, \\dots\\)\n\\({\\bf A}^{-1}, {\\bf A}^{\\top}, {\\bf A}^t, \\dots\\)\n\\({\\boldsymbol y} = {\\bf X}{\\boldsymbol \\beta} + {\\boldsymbol \\epsilon}, \\quad {\\boldsymbol \\epsilon} \\sim N({\\bf 0}, {\\bf I})\\)\n\\(\\underset{x}{\\operatorname{min}}f(x)\\), \\(\\underset{x}{\\operatorname{argmin}}f(x)\\)\n\\(\\begin{cases} x+y = 1 \\\\ x-y = 1\\end{cases}\\)"
   },
   {
     "objectID": "qslides.html#tables-1",
